@@ -8,7 +8,7 @@ Install the Cloud Foundry CLI (https://www.ng.bluemix.net/docs/starters/install_
 
 Clone locally the application on your machine
 ```
-  git clone https://github.com/edevregille/node-todo-cloudant.git
+  git clone https://github.com/jeromedruais/node-todo-cloudant.git
 ```
 
 Login on the Cloud Foundry platform (UK data center API hereunder)
