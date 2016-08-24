@@ -1,0 +1,11 @@
+applications:
+- name:      jdnodetodo
+
+# you may need to use a different hostname, if someone has already used this one
+
+  host:      jdnodetodo
+  command:   node server
+  memory:    256M
+  instances: 1
+services:
+- jdnodetodocloudant  
